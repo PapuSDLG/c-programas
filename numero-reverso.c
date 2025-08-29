@@ -12,7 +12,6 @@ int cantidadCifras(int n) {
 }
 
 int reverseInteger(int n) {
-    // 5231 = 12345
     bool esNegativo = false;
     if (n < 0) {
         n *= -1;
